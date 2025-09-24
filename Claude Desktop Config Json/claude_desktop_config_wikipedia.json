@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "busca-wikipedia": {
+            "command": "/Users/mppdi/.local/bin/uv",
+            "args": [
+                "--directory",
+                "/MCPs_ASIMOV",
+                "run",
+                "servidor_claude_wikipedia.py"
+            ],
+            "description": "Um Servidor MCP local que faz buscas na wikipedia e retorna o resumo do artigo."
+        }
+    }
+}

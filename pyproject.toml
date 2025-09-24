@@ -1,0 +1,13 @@
+[project]
+name = "mcps-asimov"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.12.3",
+    "openai>=1.108.1",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+    "wikipedia>=1.4.0",
+]
